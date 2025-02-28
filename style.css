@@ -1,88 +1,31 @@
 body{
-    background-color: rgb(248, 136, 0);
+    background-color: rgb(243, 197, 137);
 }
 
 .azul{
-    background-color: rgb(52, 143, 248);
+    background-color: rgb(0, 47, 255);
     padding: 100px;
     margin: 300px;
-    display: flex;
-    width: 700px;
+    width: 650px;
 }
 
 .amarelo{
-    background-color: rgb(236, 250, 39);
+    background-color: rgb(255, 242, 62);
     padding: 100px;
     margin: 20px;
 }
-.flex{
-    display: flex;
-}
-
-.amareloext{
-
-    padding-bottom: 290px;
-
-}
-.long{
-    padding-right: 250px;
-}
-
-.amareloext2{
-
-    padding-bottom: 200px;
-
-}
-
-.azul{
-    background-color: rgb(85, 85, 248);
-
-    padding: 200px;
-}
-
 
 .flex{
     display: flex;
-}
-
-.body{
-    margin: 10px;
-    padding: 10px;
 
 }
-
-.amarelo3{
-    background-color: rgb(255, 196, 0);
-    margin: 10px;
-    padding: 200px;
-    padding-top: 400px;
-    padding-left: 80px;
- 
-   
-
-}
-.red{
-    background-color: rgb(255, 0, 0);
-    margin: 10px;
-    padding: 100px;
-}
-.verdegordo{
-    background-color: rgb(0, 117, 16);
-    margin: 10px;
-    padding: 100px;
-    height: 190px;
-
-}
-.margin{
-    margin: 10px;
-    
+div{
 }
 
-.amarelo7{
-    background-color: rgb(197, 168, 0);
-    margin: 10px;
-    padding: 200px;
-    padding-top: 40px;
-    padding-left: 85px;
-
+.extender{
+    background-color: rgb(255, 135, 37) ;
+    padding-right: 350px;
+}
+.extender_2{
+    padding-bottom: 350;
 }
